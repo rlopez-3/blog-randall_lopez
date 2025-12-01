@@ -37,6 +37,12 @@ heroImage: '../../assets/octubre.png'
 
 ---
 
+El artículo de Karlgren y Sahlgren desafía la noción de que los Modelos de Lenguaje Generativos (LLMs) son herramientas culturalmente neutrales. Los autores explican que los LLMs son representaciones estadísticas del lenguaje y que su producción es "inherentemente alucinada" o no basada en hechos externos.
+
+Según su análisis, el proceso de alineamiento que da a un modelo su "personalidad" no es neutral sino que impone restricciones normativas basadas en la cultura que domina su entrenamiento. Las convenciones lingüísticas como la cortesía, la franqueza o la formalidad varían drásticamente entre culturas.
+
+La explicación se enfoca en que un LLM entrenado para ser franco en una cultura podría ser percibido como insensible o impertinente en otra. Por lo tanto, los autores concluyen que las instrucciones de entrenamiento deben ajustarse a las restricciones culturales relevantes de la región donde se usará el modelo. Exigen que la transparencia se aplique también a la procedencia cultural del proceso de alineamiento.
+
 ---
 
 ### Referencia bibliográfica
