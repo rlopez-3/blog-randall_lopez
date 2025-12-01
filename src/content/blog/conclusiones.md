@@ -19,4 +19,4 @@ Como recomendaciones para los profesionales en el área, yo diría que hay tres 
 - Invertir en localización cultural, especialmente en modelos de lenguaje que interactúan con la ciudadanía. La IA debe sonar, comportarse y entender como un sistema construido para Costa Rica, no simplemente traducido.
 - Promover prácticas de trabajo sostenibles, con roles de síntesis, ciclos de actualización razonables y protección activa de la salud mental, porque sin bienestar no hay ética posible.
 
-En resumen, Costa Rica sí puede aprovechar la IA para mejorar servicios públicos, impulsar la competitividad y aumentar la calidad de vida, pero solo si se hace con responsabilidad, con identidad propia y con personas capaces de pensar críticamente. Al final, es la base para construir confianza social en cualquier tecnología que queramos adoptar.
+Costa Rica sí puede aprovechar la IA para mejorar servicios públicos, impulsar la competitividad y aumentar la calidad de vida, pero solo si se hace con responsabilidad, con identidad propia y con personas capaces de pensar críticamente. Al final, es la base para construir confianza social en cualquier tecnología que queramos adoptar.
