@@ -53,7 +53,7 @@ Eso nos llevaría a importar modelos de IA sin analizarlos críticamente perdien
 
 Mi conclusión es que el avance de la IA solo puede ser realmente sostenible si se reconoce el costo humano que tiene estar en una carrera constante. La velocidad sin bienestar termina afectando directamente la integridad de los sistemas que se construyen. Las organizaciones deberían crear espacios para que los equipos tengan momentos de síntesis, reflexión y descanso, porque sin eso no se puede hacer vigilancia ética ni auditoría real del trabajo que se está entregando. Roles especializados en filtrar y resumir la información, junto con ciclos de actualización bien planificados, podrían reducir muchísimo la presión sobre los profesionales.
 
-En términos de recomendaciones, creo que quienes trabajamos en el desarrollo en Costa Rica deberíamos buscar procesos de trabajo más sostenibles y humanos. Tener tiempos definidos para actualizarse, contar con personas encargadas de sintetizar lo más relevante y proteger espacios de descanso no solo ayuda a la salud mental, también es una medida de seguridad para la ética y la integridad de la IA que construimos.
+En términos de recomendaciones, creo que quienes trabajamos en el desarrollo debemos buscar tener procesos de trabajo más sostenibles y humanos. Tener tiempos definidos para actualizarse, contar con personas encargadas de sintetizar lo más relevante y proteger espacios de descanso no solo ayuda a la salud mental, también es una medida de seguridad para la ética y la integridad de la IA que construimos.
 
 ---
 
