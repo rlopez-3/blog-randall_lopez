@@ -43,6 +43,14 @@ Según su análisis, el proceso de alineamiento que da a un modelo su "personali
 
 La explicación se enfoca en que un LLM entrenado para ser franco en una cultura podría ser percibido como insensible o impertinente en otra. Por lo tanto, los autores concluyen que las instrucciones de entrenamiento deben ajustarse a las restricciones culturales relevantes de la región donde se usará el modelo. Exigen que la transparencia se aplique también a la procedencia cultural del proceso de alineamiento.
 
+Para mí, este artículo es uno de los más importantes para entender la IA no solo como tecnología, sino como un agente cultural. Lo que los autores explican es que la fluidez de un modelo de lenguaje es solo una capa superficial; debajo, hay un complejo sistema de valores y normas sociales que fueron entrenados en él.
+
+Mi análisis es que al usar un LLM, no solo estamos usando un software, sino que estamos importando inconscientemente una ideología cultural sobre cómo se debe hablar, responder y comportarse. Si la IA que usamos en Costa Rica fue entrenada bajo la norma de una cultura diferente, puede que nos parezca ajena y el resultado generado no concuerde con la realidad del país.
+
+En mi opinión, este tema se conecta con una visión más amplia de la Ética de la IA en el curso. El sesgo cultural no es solo un error técnico, es también una falla en la integridad porque el modelo no opera de manera honesta dentro del contexto social local.
+
+Opino que el riesgo de implementar estos LLMs globalizados en servicios públicos, educación o atención al cliente es la destrucción de la confianza y la fricción social. La IA, en lugar de facilitar la vida, podría sentirse como una voz externa y ajena a nuestra realidad. Por lo que es recomendable empezar a implementar nuestros propios modelos, realizar la inversión necesaria para tener las herramientas de inteligencia artificial ajustadas a nuestro contexto y realidad nacional.
+
 ---
 
 ### Referencia bibliográfica
