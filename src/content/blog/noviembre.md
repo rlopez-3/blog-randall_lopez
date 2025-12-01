@@ -1,5 +1,5 @@
 ---
-title: 'Inteligencia Artificial y Fatiga'
+title: 'La Fatiga de la IA'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Nov 10 2025'
 heroImage: '../../assets/noviembre.png'

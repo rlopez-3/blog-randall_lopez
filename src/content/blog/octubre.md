@@ -1,5 +1,5 @@
 ---
-title: 'Modelos de lenguaje y Cultura'
+title: 'Modelos de Lenguaje y Cultura'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Oct 06 2025'
 heroImage: '../../assets/octubre.png'
